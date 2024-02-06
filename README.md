@@ -11,7 +11,7 @@ Bioinformatics and data analysis tool to filter a file based on the content of t
 filter_2col [-v] [--both-orders|b] COL_1 COL_2 filter_couple_file < input_file
 
 -v : if indicated returns all the rows that don't match the filter (inverse filter) 
---both-orders : if indicated, the filter works indipendently of the order of <em>COL_1</em> and <em>COL_2</em> 
+--both-orders : if indicated, the filter works indipendently of the order of COL_1 and COL_2 
 
 COL_1 : number of the first column we want the filter to use
 COL_2 : number of the second column we want the filter to use
