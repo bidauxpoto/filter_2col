@@ -1,7 +1,7 @@
 # filter_2col
 
 ### Installation using conda:
-```conda install -c molinerislab filter_2col```
+```incoming...```
 
 ### Description
 Bioinformatics and data analysis tool to filter a file based on the content of two different columns (something like ```grep -f```).
